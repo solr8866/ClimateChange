@@ -1,0 +1,3 @@
+CaribouDiorama.uasset filter=lfs diff=lfs merge=lfs -text
+NHM01_100k_Caribou.uasset filter=lfs diff=lfs merge=lfs -text
+NHM01_100k_Caribou_u1_v1.uasset filter=lfs diff=lfs merge=lfs -text
