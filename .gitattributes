@@ -1,3 +1,5 @@
 CaribouDiorama.uasset filter=lfs diff=lfs merge=lfs -text
 NHM01_100k_Caribou.uasset filter=lfs diff=lfs merge=lfs -text
 NHM01_100k_Caribou_u1_v1.uasset filter=lfs diff=lfs merge=lfs -text
+T_Underground_Clamps01_M.uasset filter=lfs diff=lfs merge=lfs -text
+T_Metal_Metal03_D.uasset filter=lfs diff=lfs merge=lfs -text
